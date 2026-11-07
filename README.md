@@ -1,2 +1,5 @@
-HTML-CSS ASSIGNMENT - DONE 
-JS MODULES 1 & 2 - DONE
+# Web Development Assignments
+
+- HTML-CSS Assignment      – DONE
+- JavaScript Modules 1 & 2 – DONE
+- JavaScript Module 3      – DONE
